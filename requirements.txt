@@ -4,4 +4,3 @@ joblib
 streamlit
 ipywidgets
 IPython
-urllib
