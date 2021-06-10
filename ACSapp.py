@@ -1,7 +1,6 @@
 import streamlit as st
 import ipywidgets as widgets
 from IPython.display import display
-import urllib.request
 import numpy as np
 import pandas as pd
 
