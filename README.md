@@ -1,6 +1,6 @@
-# Alzheimers-Diagnosis_MRI
+# ACS EE 3302 project
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikhilreddybilla28/Alzheimers-Diagnosis_MRI/main?filepath=voila%2Frender%2Fnilpotentapp.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikhilreddybilla28/acadacs/main?urlpath=voila%2Frender%2Fnilpotentapp.ipynb)
 
 Given a N * N matrix and the task is to check matrix is Nilpotent or not. 
 
