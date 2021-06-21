@@ -8,3 +8,5 @@ matrix elemnts should be space separated while giving input, as shown below.
 
 
 ![demo](a1.png)
+
+As this web app is deployed on free tier , it will be slow , wait for few seconds till the complete page loads
