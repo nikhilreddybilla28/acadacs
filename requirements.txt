@@ -4,7 +4,6 @@
 # To update, run:
 #
 #    pip-compile
-python
 ipywidgets
 voila
 pandas
