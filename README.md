@@ -5,4 +5,6 @@
 Given a N * N matrix and the task is to check matrix is Nilpotent or not. 
 
 matrix elemnts should be space separated while giving input, as shown below.
+
+
 ![demo](a1.png)
