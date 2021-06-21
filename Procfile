@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run ACSapp.py
+web: voila —-port=$PORT —-no-browser nilpotentapp.ipynb
